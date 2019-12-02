@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-   homeytl111111111111111111111111111111111
+   homeytl
   </div>
 </template>
 
