@@ -1,11 +1,5 @@
 <template>
-    <div class="ytl">
-
-
-
-
-        
-    </div>
+    <div class="ytl"></div>
 </template>
 
 <script>
